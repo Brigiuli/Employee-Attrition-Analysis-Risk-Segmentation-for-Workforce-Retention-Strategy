@@ -1,5 +1,3 @@
-Predicción de Rotación de Empleados (Attrition)
-
 ## Resumen del proyecto
 Proyecto de analítica de Recursos Humanos enfocado en la predicción de rotación de empleados mediante machine learning. El objetivo es identificar empleados en riesgo de salida y entender los factores asociados a la rotación para apoyar decisiones de retención de talento.
 
