@@ -5,26 +5,26 @@ Proyecto de analítica de Recursos Humanos enfocado en la predicción de rotaci�
 Desarrollar un modelo predictivo que permita identificar empleados con alta probabilidad de abandonar la empresa (attrition) y apoyar estrategias de retención basadas en datos.
 
 ## Objetivos específicos
-Analizar y preparar datos de empleados para el modelado.
-Identificar variables relevantes asociadas a la rotación.
-Construir modelos de clasificación para predecir attrition.
-Evaluar el desempeño del modelo mediante métricas de clasificación.
-Aplicar técnicas para mejorar el desempeño del modelo (balanceo y ajuste de umbral).
-Generar insights para la toma de decisiones en RRHH.
+* Analizar y preparar datos de empleados para el modelado.
+* Identificar variables relevantes asociadas a la rotación.
+* Construir modelos de clasificación para predecir attrition.
+* Evaluar el desempeño del modelo mediante métricas de clasificación.
+* Aplicar técnicas para mejorar el desempeño del modelo (balanceo y ajuste de umbral).
+* Generar insights para la toma de decisiones en RRHH.
 
 ## Metodología
 El proyecto sigue un flujo completo de analítica de datos:
 
-Carga del dataset de empleados desde Kaggle
-Análisis exploratorio de datos (EDA)
-Limpieza y tratamiento de variables irrelevantes
-Codificación de variables categóricas
-División de datos en entrenamiento y prueba
-Escalado de variables
-Entrenamiento de modelos de clasificación (Regresión Logística y Random Forest)
-Manejo de desbalance de clases con SMOTE
-Ajuste de threshold para optimizar recall
-Evaluación del modelo con métricas de clasificación
+* Carga del dataset de empleados desde Kaggle
+* Análisis exploratorio de datos (EDA)
+* Limpieza y tratamiento de variables irrelevantes
+* Codificación de variables categóricas
+* División de datos en entrenamiento y prueba
+* Escalado de variables
+* Entrenamiento de modelos de clasificación (Regresión Logística y Random Forest)
+* Manejo de desbalance de clases con SMOTE
+* Ajuste de threshold para optimizar recall
+* Evaluación del modelo con métricas de clasificación
 
 ## Principales insights
 * Los empleados con menor ingreso mensual presentan mayor probabilidad de rotación.
@@ -34,10 +34,10 @@ Evaluación del modelo con métricas de clasificación
 * Se identifican patrones que permiten segmentar empleados en riesgo de rotación.
 
 ## Valor para el negocio
-Permite identificar empleados en riesgo de salida de forma anticipada.
-Apoya estrategias de retención de talento basadas en datos.
-Ayuda a priorizar acciones sobre empleados con mayor riesgo.
-Contribuye a reducir costos asociados a rotación y reemplazo de personal.
+* Permite identificar empleados en riesgo de salida de forma anticipada.
+* Apoya estrategias de retención de talento basadas en datos.
+* Ayuda a priorizar acciones sobre empleados con mayor riesgo.
+* Contribuye a reducir costos asociados a rotación y reemplazo de personal.
 
 ## Herramientas utilizadas
 Python | Pandas | NumPy | Scikit-learn | Seaborn | Matplotlib | SMOTE | Google Colab
