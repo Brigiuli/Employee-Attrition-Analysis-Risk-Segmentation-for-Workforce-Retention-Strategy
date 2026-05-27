@@ -48,6 +48,7 @@ Variables: 35 columnas\
 Tipo de problema: Clasificación binaria\
 Variable objetivo: Attrition\
 1 = el empleado abandona la empresa\
-0 = el empleado permanece en la empresa
+0 = el empleado permanece en la empresa\
 
+El dataset incluye información de empleados relacionada con ingresos, horas extras, satisfacción laboral, experiencia, desempeño y otras variables utilizadas para analizar y predecir la rotación de personal.
 El dataset incluye información de empleados relacionada con ingresos, horas extras, satisfacción laboral, experiencia, desempeño y otras variables utilizadas para analizar y predecir la rotación de personal.
